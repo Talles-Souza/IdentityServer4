@@ -35,6 +35,7 @@ namespace IdentityServer
             {
                 new ApiScope("myApi.read"),
                 new ApiScope("myApi.write"),
+                 
             };
 
         public static IEnumerable<ApiResource> ApiResources =>
@@ -51,11 +52,11 @@ namespace IdentityServer
             {
                 new Client
                 {
-                    ClientId = "cwm.client",
+                    ClientId = "talles",
                     ClientName = "Client Credentials Client",
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    ClientSecrets = { new Secret("secret".Sha256()) },
-                    AllowedScopes = { "myApi.read" }
+                    ClientSecrets = { new Secret("ronaldo".Sha256()) },
+                    AllowedScopes = { "myApi.read"}
                 },
             };
     }
