@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQVJPET/aJ5j+1/LHIzQMDI3s7EnVjKCwiYLvJJJqd56liOvrXTCc+gCy0LBKKxrJtGqZDMdG7TS77i2lEq9xg==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\AspnIdentityServer4\\WebClient\\WebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talles\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\talles\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
