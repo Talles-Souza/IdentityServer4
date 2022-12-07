@@ -19,3 +19,15 @@ C:\C#\AspnIdentityServer4\WebApi\obj\Debug\net6.0\refint\WebApi.dll
 C:\C#\AspnIdentityServer4\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\C#\AspnIdentityServer4\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\C#\AspnIdentityServer4\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\IdentityModel.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\AspnIdentityServer4\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\AspnIdentityServer4\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete

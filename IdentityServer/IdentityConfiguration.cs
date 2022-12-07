@@ -52,10 +52,10 @@ namespace IdentityServer
             {
                 new Client
                 {
-                    ClientId = "talles",
+                    ClientId = "cwm.client",
                     ClientName = "Client Credentials Client",
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    ClientSecrets = { new Secret("ronaldo".Sha256()) },
+                    ClientSecrets = { new Secret("secret".Sha256()) },
                     AllowedScopes = { "myApi.read"}
                 },
             };
